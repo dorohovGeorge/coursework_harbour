@@ -1,0 +1,728 @@
+{
+  "statistics": [
+    [
+      {
+        "shipName": "Athena",
+        "timeOfArrival": "2021-10-05T02:59:01",
+        "waitingTime": 0,
+        "startTimeOfUnloading": 1632609864000,
+        "durationOfUnloading": 0
+      },
+      {
+        "shipName": "Allison",
+        "timeOfArrival": "2021-10-18T23:28:04",
+        "waitingTime": 0,
+        "startTimeOfUnloading": 1632609864000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Melody",
+        "timeOfArrival": "2021-10-17T07:46:51",
+        "waitingTime": 3600000,
+        "startTimeOfUnloading": 1632613464000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Paisley",
+        "timeOfArrival": "2021-10-19T21:07:37",
+
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 32400000
+      },
+      {
+        "shipName": "Aria",
+        "timeOfArrival": "2021-10-03T07:51:38",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 39600000
+      },
+      {
+        "shipName": "Aaliyah",
+        "timeOfArrival": "2021-10-17T19:10:42",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Amaya",
+        "timeOfArrival": "2021-10-10T05:41:50",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 36000000
+      },
+      {
+        "shipName": "Sarah",
+        "timeOfArrival": "2021-10-13T22:54:33",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Natalie",
+        "timeOfArrival": "2021-10-01T05:47:43",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Charlotte",
+        "timeOfArrival": "2021-10-06T03:06:40",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Nevaeh",
+        "timeOfArrival": "2021-10-20T09:30:49",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 32400000
+      },
+      {
+        "shipName": "Lydia",
+        "timeOfArrival": "2021-10-09T19:42:16",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 25200000
+      },
+      {
+        "shipName": "Hannah",
+        "timeOfArrival": "2021-10-18T20:16:54",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 21600000
+      },
+      {
+        "shipName": "Alexandra",
+        "timeOfArrival": "2021-10-09T02:54:10",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Amelia",
+        "timeOfArrival": "2021-10-24T02:38:49",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 64800000
+      },
+      {
+        "shipName": "Taylor",
+        "timeOfArrival": "2021-10-25T15:51:20",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Bella",
+        "timeOfArrival": "2021-10-24T11:33:15",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 46800000
+      },
+      {
+        "shipName": "Penelope",
+        "timeOfArrival": "2021-10-14T09:24:30",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Madelyn",
+        "timeOfArrival": "2021-10-12T03:28:25",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 68400000
+      },
+      {
+        "shipName": "Melanie",
+        "timeOfArrival": "2021-10-19T22:37:33",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 21600000
+      },
+      {
+        "shipName": "Luna",
+        "timeOfArrival": "2021-10-04T07:57:28",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 43200000
+      },
+      {
+        "shipName": "Ava",
+        "timeOfArrival": "2021-09-25T22:44:24",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 140400000
+      },
+      {
+        "shipName": "Isla",
+        "timeOfArrival": "2021-10-08T08:14:28",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Naomi",
+        "timeOfArrival": "2021-10-18T17:11:17",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Charlie",
+        "timeOfArrival": "2021-10-12T13:57:34",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Riley",
+        "timeOfArrival": "2021-10-20T11:43:44",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Chloe",
+        "timeOfArrival": "2021-10-06T13:57:56",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Margaret",
+        "timeOfArrival": "2021-10-23T15:36:11",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 25200000
+      },
+      {
+        "shipName": "Gabriella",
+        "timeOfArrival": "2021-10-22T13:57:09",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 25200000
+      },
+      {
+        "shipName": "Emery",
+        "timeOfArrival": "2021-10-04T00:06:39",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 14400000
+      }
+    ],
+    [
+      {
+        "shipName": "Delilah",
+        "timeOfArrival": "2021-10-10T13:29:54",
+        "waitingTime": 0,
+        "startTimeOfUnloading": 1632609864000,
+        "durationOfUnloading": 36000000
+      },
+      {
+        "shipName": "Sophie",
+        "timeOfArrival": "2021-10-21T20:20:50",
+        "waitingTime": 0,
+        "startTimeOfUnloading": 1632609864000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Nora",
+        "timeOfArrival": "2021-10-18T04:46:54",
+        "waitingTime": 3600000,
+        "startTimeOfUnloading": 1632613464000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Clara",
+        "timeOfArrival": "2021-10-06T06:18:18",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Quinn",
+        "timeOfArrival": "2021-10-18T20:13:55",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Jasmine",
+        "timeOfArrival": "2021-10-04T02:10:17",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Mia",
+        "timeOfArrival": "2021-09-30T01:14:07",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Hazel",
+        "timeOfArrival": "2021-10-05T03:29:37",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Violet",
+        "timeOfArrival": "2021-10-15T05:27:10",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Grace",
+        "timeOfArrival": "2021-10-05T01:37:28",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Adalynn",
+        "timeOfArrival": "2021-10-05T22:11:48",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 57600000
+      },
+      {
+        "shipName": "Liliana",
+        "timeOfArrival": "2021-10-11T09:12:43",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Genesis",
+        "timeOfArrival": "2021-10-17T21:33:01",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 64800000
+      },
+      {
+        "shipName": "Rylee",
+        "timeOfArrival": "2021-10-17T12:50:59",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 32400000
+      },
+      {
+        "shipName": "Faith",
+        "timeOfArrival": "2021-10-18T23:17:13",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 3600000
+      },
+      {
+        "shipName": "Eliana",
+        "timeOfArrival": "2021-10-24T15:38:04",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 3600000
+      },
+      {
+        "shipName": "Harper",
+        "timeOfArrival": "2021-10-20T11:17:02",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 36000000
+      },
+      {
+        "shipName": "Autumn",
+        "timeOfArrival": "2021-10-13T01:45:23",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 79200000
+      },
+      {
+        "shipName": "Leah",
+        "timeOfArrival": "2021-10-16T13:33:00",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 32400000
+      },
+      {
+        "shipName": "Madison",
+        "timeOfArrival": "2021-09-30T21:28:20",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Zoe",
+        "timeOfArrival": "2021-10-12T11:54:34",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Mila",
+        "timeOfArrival": "2021-09-29T05:59:01",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 46800000
+      },
+      {
+        "shipName": "Sofia",
+        "timeOfArrival": "2021-09-28T00:14:41",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 3600000
+      },
+      {
+        "shipName": "Claire",
+        "timeOfArrival": "2021-10-12T13:01:13",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 3600000
+      },
+      {
+        "shipName": "Ximena",
+        "timeOfArrival": "2021-10-06T13:31:49",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Emilia",
+        "timeOfArrival": "2021-10-17T13:58:15",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Iris",
+        "timeOfArrival": "2021-09-30T07:31:27",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 46800000
+      },
+      {
+        "shipName": "Skylar",
+        "timeOfArrival": "2021-10-01T23:29:26",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 54000000
+      },
+      {
+        "shipName": "Aubree",
+        "timeOfArrival": "2021-10-16T18:21:04",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Everleigh",
+        "timeOfArrival": "2021-10-06T08:12:55",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Layla",
+        "timeOfArrival": "2021-10-23T21:40:00",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 25200000
+      },
+      {
+        "shipName": "Evelyn",
+        "timeOfArrival": "2021-10-04T02:14:35",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 72000000
+      },
+      {
+        "shipName": "Scarlett",
+        "timeOfArrival": "2021-10-24T18:06:58",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Piper",
+        "timeOfArrival": "2021-10-02T08:28:15",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 25200000
+      },
+      {
+        "shipName": "Eliza",
+        "timeOfArrival": "2021-10-16T22:28:51",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 39600000
+      },
+      {
+        "shipName": "Sophia",
+        "timeOfArrival": "2021-10-22T08:28:54",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 3600000
+      },
+      {
+        "shipName": "Isabella",
+        "timeOfArrival": "2021-10-24T07:01:24",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 43200000
+      },
+      {
+        "shipName": "Everly",
+        "timeOfArrival": "2021-10-16T09:55:27",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Kaylee",
+        "timeOfArrival": "2021-09-28T14:38:15",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Savannah",
+        "timeOfArrival": "2021-10-22T16:10:28",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Vivian",
+        "timeOfArrival": "2021-09-28T08:47:12",
+        "waitingTime": 14400000,
+        "startTimeOfUnloading": 1632624264000,
+        "durationOfUnloading": 14400000
+      }
+    ],
+    [
+      {
+        "shipName": "Katherine",
+        "timeOfArrival": "2021-10-05T02:31:33",
+        "waitingTime": 0,
+        "startTimeOfUnloading": 1632609864000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Elizabeth",
+        "timeOfArrival": "2021-10-01T19:01:00",
+        "waitingTime": 0,
+        "startTimeOfUnloading": 1632609864000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Ruby",
+        "timeOfArrival": "2021-09-30T18:09:43",
+        "waitingTime": 3600000,
+        "startTimeOfUnloading": 1632613464000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Natalia",
+        "timeOfArrival": "2021-10-18T12:36:34",
+        "waitingTime": 3600000,
+        "startTimeOfUnloading": 1632613464000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Caroline",
+        "timeOfArrival": "2021-09-26T02:22:54",
+        "waitingTime": 3600000,
+        "startTimeOfUnloading": 1632613464000,
+        "durationOfUnloading": 21600000
+      },
+      {
+        "shipName": "Arianna",
+        "timeOfArrival": "2021-10-22T15:35:54",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 61200000
+      },
+      {
+        "shipName": "Peyton",
+        "timeOfArrival": "2021-10-13T08:33:17",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 50400000
+      },
+      {
+        "shipName": "Samantha",
+        "timeOfArrival": "2021-10-06T07:07:42",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Isabel",
+        "timeOfArrival": "2021-09-28T07:13:29",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Willow",
+        "timeOfArrival": "2021-10-02T08:24:32",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 36000000
+      },
+      {
+        "shipName": "Stella",
+        "timeOfArrival": "2021-10-09T12:20:15",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 21600000
+      },
+      {
+        "shipName": "Emily",
+        "timeOfArrival": "2021-10-13T14:58:49",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 7200000
+      },
+      {
+        "shipName": "Addison",
+        "timeOfArrival": "2021-10-11T01:41:04",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 3600000
+      },
+      {
+        "shipName": "Sadie",
+        "timeOfArrival": "2021-09-26T09:51:34",
+        "waitingTime": 7200000,
+        "startTimeOfUnloading": 1632617064000,
+        "durationOfUnloading": 25200000
+      },
+      {
+        "shipName": "Jade",
+        "timeOfArrival": "2021-10-24T10:37:15",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 21600000
+      },
+      {
+        "shipName": "Gianna",
+        "timeOfArrival": "2021-10-23T16:45:42",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Brooklyn",
+        "timeOfArrival": "2021-10-14T10:05:23",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 43200000
+      },
+      {
+        "shipName": "Ivy",
+        "timeOfArrival": "2021-10-19T14:35:34",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Audrey",
+        "timeOfArrival": "2021-10-14T07:28:58",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 10800000
+      },
+      {
+        "shipName": "Mackenzie",
+        "timeOfArrival": "2021-10-07T14:34:21",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Lyla",
+        "timeOfArrival": "2021-10-12T08:50:21",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 36000000
+      },
+      {
+        "shipName": "Ellie",
+        "timeOfArrival": "2021-10-21T04:12:32",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Leilani",
+        "timeOfArrival": "2021-09-26T21:09:10",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 32400000
+      },
+      {
+        "shipName": "Rose",
+        "timeOfArrival": "2021-10-14T17:55:41",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 54000000
+      },
+      {
+        "shipName": "Abigail",
+        "timeOfArrival": "2021-10-16T03:55:24",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Eva",
+        "timeOfArrival": "2021-10-20T05:32:37",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 75600000
+      },
+      {
+        "shipName": "Maria",
+        "timeOfArrival": "2021-09-29T07:23:17",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 14400000
+      },
+      {
+        "shipName": "Cora",
+        "timeOfArrival": "2021-09-29T18:58:47",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 18000000
+      },
+      {
+        "shipName": "Hailey",
+        "timeOfArrival": "2021-10-12T20:36:59",
+        "waitingTime": 10800000,
+        "startTimeOfUnloading": 1632620664000,
+        "durationOfUnloading": 39600000
+      }
+    ]
+  ],
+  "summaryStatistics": {
+    "unloadedShip": 100,
+    "averageWaitingTime": 9828000,
+    "maxUnloadLatency": 23,
+    "averageUnloadLatency": 12,
+    "fine": 27300,
+    "requiredCountOfCranes": [
+      0,
+      0,
+      0
+    ],
+    "fineForTypesOfShips": [
+      8600,
+      12100,
+      6600
+    ]
+  }
+}

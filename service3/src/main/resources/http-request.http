@@ -1,0 +1,11 @@
+###
+GET http://localhost:8081/schedule/generate
+
+###
+GET http://localhost:8082/schedules
+
+###
+GET http://localhost:8083/statistics
+
+###
+POST http://localhost:8083/statistics
